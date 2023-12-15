@@ -1,0 +1,6 @@
+/Users/arinafedotova/RiderProjects/Restaurant/Logger/bin/Debug/Logger.dll
+/Users/arinafedotova/RiderProjects/Restaurant/Logger/bin/Debug/Logger.pdb
+/Users/arinafedotova/RiderProjects/Restaurant/Logger/obj/Debug/Logger.csproj.AssemblyReference.cache
+/Users/arinafedotova/RiderProjects/Restaurant/Logger/obj/Debug/Logger.csproj.CoreCompileInputs.cache
+/Users/arinafedotova/RiderProjects/Restaurant/Logger/obj/Debug/Logger.dll
+/Users/arinafedotova/RiderProjects/Restaurant/Logger/obj/Debug/Logger.pdb

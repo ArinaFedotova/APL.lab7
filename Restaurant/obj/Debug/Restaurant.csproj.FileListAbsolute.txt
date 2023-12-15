@@ -1,0 +1,9 @@
+/Users/arinafedotova/RiderProjects/Restaurant/Restaurant/bin/Debug/Restaurant.dll
+/Users/arinafedotova/RiderProjects/Restaurant/Restaurant/bin/Debug/Restaurant.pdb
+/Users/arinafedotova/RiderProjects/Restaurant/Restaurant/obj/Debug/Restaurant.csproj.AssemblyReference.cache
+/Users/arinafedotova/RiderProjects/Restaurant/Restaurant/obj/Debug/Restaurant.csproj.CoreCompileInputs.cache
+/Users/arinafedotova/RiderProjects/Restaurant/Restaurant/obj/Debug/Restaurant.dll
+/Users/arinafedotova/RiderProjects/Restaurant/Restaurant/obj/Debug/Restaurant.pdb
+/Users/arinafedotova/RiderProjects/Restaurant/Restaurant/bin/Debug/Logger.dll
+/Users/arinafedotova/RiderProjects/Restaurant/Restaurant/bin/Debug/Logger.pdb
+/Users/arinafedotova/RiderProjects/Restaurant/Restaurant/obj/Debug/Restaurant.csproj.CopyComplete

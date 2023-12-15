@@ -1,0 +1,265 @@
+20:52:24 - The application started
+20:52:24 - Timer started
+20:52:27 - Emmiter generated an order 0: Soup
+20:52:29 - Waiter 1 processed order 0
+20:52:30 - Emmiter generated an order 1: Steak
+20:52:32 - Cook 1 processed order 0
+20:52:33 - Waiter 1 processed order 1
+20:52:33 - Emmiter generated an order 2: Salad
+20:52:35 - Cook 1 processed order 1
+20:52:35 - Chief 1 processed order 0
+20:52:35 - Waiter 1 processed order 2
+20:52:36 - Emmiter generated an order 3: Fish
+20:52:37 - Cook 1 processed order 2
+20:52:38 - Chief 1 processed order 1
+20:52:39 - Waiter 1 processed order 3
+20:52:39 - Emmiter generated an order 4: Cake
+20:52:40 - Chief 1 processed order 2
+20:52:41 - Cook 1 processed order 3
+20:52:41 - Waiter 1 processed order 4
+20:52:42 - Emmiter generated an order 5: Coctail
+20:52:44 - Cook 1 processed order 4
+20:52:44 - Chief 1 processed order 3
+20:52:44 - Waiter 1 processed order 5
+20:52:45 - Emmiter generated an order 6: Lemonade
+20:52:46 - Cook 1 processed order 5
+20:52:46 - Chief 1 processed order 4
+20:52:47 - Waiter 1 processed order 6
+20:52:49 - Chief 1 processed order 5
+20:52:50 - Cook 1 processed order 6
+20:52:52 - Chief 1 processed order 6
+20:53:07 - Deactivate waiter 1
+20:53:10 - Deactivate cook 1
+20:53:12 - Deactivate chief 1
+20:53:13 - End Program
+03:22:51 - The application started
+03:22:51 - Timer started
+03:22:54 - Emmiter generated an order 0: Soup
+03:22:57 - Waiter 1 processed order 0
+03:22:57 - Emmiter generated an order 1: Steak
+03:22:59 - Waiter 1 processed order 0
+03:22:59 - Waiter 2 processed order 1
+03:23:00 - Emmiter generated an order 2: Salad
+03:23:01 - Waiter 2 processed order 1
+03:23:01 - Waiter 1 processed order 0
+03:23:03 - Waiter 2 processed order 2
+03:23:03 - Emmiter generated an order 3: Fish
+03:23:04 - Waiter 1 processed order 1
+03:23:05 - Waiter 2 processed order 0
+03:23:06 - Waiter 1 processed order 2
+03:23:06 - Waiter 2 processed order 3
+03:23:07 - Emmiter generated an order 4: Cake
+03:23:08 - Waiter 1 processed order 1
+03:23:08 - Waiter 2 processed order 0
+03:23:10 - Emmiter generated an order 5: Coctail
+03:23:10 - Waiter 2 processed order 3
+03:23:10 - Waiter 1 processed order 2
+03:23:12 - Deactivate cook 1
+03:23:12 - Deactivate cook 2
+03:23:12 - Deactivate cook 3
+03:23:12 - Deactivate chief 1
+03:23:12 - Deactivate chief 2
+03:23:12 - Deactivate chief 3
+03:23:12 - Deactivate chief 1
+03:23:12 - Deactivate chief 2
+03:23:12 - Deactivate chief 3
+03:23:12 - Waiter 2 processed order 1
+03:23:12 - Waiter 1 processed order 4
+03:23:13 - Emmiter generated an order 6: Lemonade
+03:23:14 - Waiter 2 processed order 0
+03:25:26 - The application started
+03:25:26 - Timer started
+03:27:18 - The application started
+03:27:18 - Timer started
+03:27:21 - Emmiter generated an order 0: Soup
+03:27:24 - Emmiter generated an order 1: Steak
+03:27:24 - Waiter 1 processed order 0
+03:27:26 - Waiter 2 processed order 0
+03:27:26 - Waiter 1 processed order 1
+03:27:27 - Emmiter generated an order 2: Salad
+03:27:29 - Waiter 2 processed order 1
+03:27:29 - Waiter 1 processed order 0
+03:27:30 - Emmiter generated an order 3: Fish
+03:27:32 - Waiter 2 processed order 1
+03:27:32 - Waiter 1 processed order 2
+03:27:33 - Emmiter generated an order 4: Cake
+03:27:34 - Waiter 2 processed order 3
+03:27:35 - Waiter 1 processed order 0
+03:30:26 - The application started
+03:30:26 - Timer started
+03:30:29 - Emmiter generated an order 0: Soup
+03:32:04 - The application started
+03:32:04 - Timer started
+03:32:07 - Emmiter generated an order 0: Soup
+03:32:37 - The application started
+03:32:37 - Timer started
+03:32:40 - Emmiter generated an order 0: Soup
+03:34:11 - The application started
+03:34:12 - Timer started
+03:34:15 - Emmiter generated an order 0: Soup
+03:34:17 - Waiter 1 processed order 0
+03:34:18 - Emmiter generated an order 1: Steak
+03:34:20 - Waiter 1 processed order 0
+03:34:21 - Emmiter generated an order 2: Salad
+03:34:22 - Waiter 1 processed order 1
+03:34:24 - Emmiter generated an order 3: Fish
+03:34:24 - Waiter 1 processed order 0
+03:34:26 - Waiter 1 processed order 2
+03:34:27 - Emmiter generated an order 4: Cake
+03:34:28 - Waiter 1 processed order 1
+03:34:29 - Waiter 1 processed order 3
+03:34:30 - Emmiter generated an order 5: Coctail
+03:34:31 - Waiter 1 processed order 0
+03:34:33 - Emmiter generated an order 6: Lemonade
+03:34:33 - Deactivate cook 1
+03:34:33 - Deactivate cook 2
+03:34:33 - Deactivate chief 1
+03:34:33 - Deactivate chief 2
+03:38:02 - The application started
+03:38:02 - Timer started
+03:38:05 - Emmiter generated an order 0: Soup
+03:38:08 - Emmiter generated an order 1: Steak
+03:38:09 - Waiter 1 processed order 0
+03:38:11 - Emmiter generated an order 2: Salad
+03:38:12 - Waiter 1 processed order 1
+03:38:14 - Emmiter generated an order 3: Fish
+03:38:14 - Waiter 1 processed order 0
+03:38:17 - Waiter 1 processed order 2
+03:38:17 - Emmiter generated an order 4: Cake
+03:38:19 - Waiter 1 processed order 1
+03:38:20 - Emmiter generated an order 5: Coctail
+03:38:22 - Waiter 1 processed order 3
+03:45:36 - The application started
+03:45:36 - Timer started
+03:45:39 - Emmiter generated an order 0: Soup
+03:45:42 - Emmiter generated an order 1: Steak
+03:45:43 - Waiter 1 processed order 0
+03:45:45 - Emmiter generated an order 2: Salad
+03:45:46 - Cook 1 processed order 0
+03:45:46 - Waiter 1 processed order 1
+03:45:48 - Cook 1 processed order 1
+03:45:48 - Chief 1 processed order 0
+03:45:48 - Waiter 1 processed order 2
+03:45:48 - Emmiter generated an order 3: Fish
+03:45:50 - Cook 1 processed order 2
+03:45:50 - Chief 1 processed order 1
+03:45:51 - Waiter 1 processed order 3
+03:45:51 - Emmiter generated an order 4: Cake
+03:45:53 - Cook 1 processed order 3
+03:45:53 - Chief 1 processed order 2
+03:45:54 - Emmiter generated an order 5: Coctail
+03:45:55 - Chief 1 processed order 3
+03:45:55 - Waiter 1 processed order 4
+03:45:57 - Emmiter generated an order 6: Lemonade
+03:45:57 - Deactivate cook 2
+03:45:57 - Deactivate chief 2
+03:45:58 - Cook 1 processed order 4
+03:45:58 - Waiter 1 processed order 5
+03:46:00 - Cook 1 processed order 5
+03:46:00 - Chief 1 processed order 4
+03:46:00 - Waiter 1 processed order 6
+03:46:03 - Cook 1 processed order 6
+03:46:03 - Chief 1 processed order 5
+03:46:05 - Chief 1 processed order 6
+03:46:23 - Deactivate waiter 1
+03:46:25 - Deactivate cook 1
+03:46:27 - Deactivate chief 1
+03:46:30 - End Program
+03:49:29 - The application started
+03:49:29 - Timer started
+03:49:33 - Emmiter generated an order 0: Soup
+03:49:36 - Emmiter generated an order 1: Steak
+03:49:36 - Waiter 1 processed order 0
+03:49:39 - Emmiter generated an order 2: Salad
+03:49:39 - Cook 1 processed order 0
+03:49:39 - Waiter 1 processed order 1
+03:49:42 - Emmiter generated an order 3: Fish
+03:49:43 - Chief 1 processed order 0
+03:49:43 - Cook 1 processed order 1
+03:49:43 - Waiter 1 processed order 2
+03:49:45 - Emmiter generated an order 4: Cake
+03:49:46 - Chief 1 processed order 1
+03:49:46 - Cook 1 processed order 2
+03:49:47 - Waiter 1 processed order 3
+03:49:48 - Emmiter generated an order 5: Coctail
+03:49:50 - Chief 1 processed order 2
+03:49:50 - Deactivate cook 2
+03:49:50 - Deactivate chief 2
+03:49:50 - Cook 1 processed order 3
+03:49:51 - Emmiter generated an order 6: Lemonade
+03:49:51 - Waiter 1 processed order 4
+03:49:52 - Chief 1 processed order 3
+03:49:54 - Cook 1 processed order 4
+04:01:10 - The application started
+04:01:10 - Timer started
+04:01:13 - Emmiter generated an order 0: Soup
+04:01:16 - Emmiter generated an order 1: Steak
+04:01:17 - Waiter 1 processed order 0
+04:01:19 - Emmiter generated an order 2: Salad
+04:01:19 - Cook 1 processed order 0
+04:01:19 - Waiter 1 processed order 1
+04:01:21 - Cook 1 processed order 1
+04:01:22 - Waiter 1 processed order 2
+04:01:22 - Chief 1 processed order 0
+04:01:22 - Emmiter generated an order 3: Fish
+04:01:24 - Cook 1 processed order 2
+04:01:24 - Waiter 1 processed order 3
+04:01:24 - Chief 1 processed order 1
+04:01:25 - Emmiter generated an order 4: Cake
+04:01:26 - Cook 1 processed order 3
+04:01:27 - Chief 1 processed order 2
+04:01:28 - Emmiter generated an order 5: Coctail
+04:01:29 - Waiter 1 processed order 4
+04:01:29 - Chief 1 processed order 3
+04:01:31 - Emmiter generated an order 6: Lemonade
+04:01:31 - Deactivate cook 2
+04:01:31 - Deactivate chief 2
+04:01:31 - Cook 1 processed order 4
+04:01:32 - Waiter 1 processed order 5
+04:01:34 - Cook 1 processed order 5
+04:01:34 - Waiter 1 processed order 6
+04:01:34 - Chief 1 processed order 4
+04:01:36 - Cook 1 processed order 6
+04:01:37 - Chief 1 processed order 5
+04:01:39 - Chief 1 processed order 6
+04:01:54 - Deactivate waiter 1
+04:01:57 - Deactivate cook 1
+04:01:59 - Deactivate chief 1
+04:02:02 - End Program
+04:06:30 - The application started
+04:06:30 - Timer started
+04:06:33 - Emmiter generated an order 0: Soup
+04:06:35 - Waiter 1 processed order 0
+04:06:36 - Emmiter generated an order 1: Steak
+04:06:37 - Cook 1 processed order 0
+04:06:38 - Waiter 1 processed order 1
+04:06:39 - Emmiter generated an order 2: Salad
+04:06:40 - Chief 1 processed order 0
+04:06:40 - Cook 1 processed order 1
+04:06:41 - Waiter 1 processed order 2
+04:06:42 - Emmiter generated an order 3: Fish
+04:06:43 - Chief 1 processed order 1
+04:06:43 - Cook 1 processed order 2
+04:06:44 - Waiter 1 processed order 3
+04:06:45 - Emmiter generated an order 4: Cake
+04:06:45 - Chief 1 processed order 2
+04:06:47 - Cook 1 processed order 3
+04:06:47 - Waiter 1 processed order 4
+04:06:48 - Emmiter generated an order 5: Coctail
+04:06:49 - Chief 1 processed order 3
+04:06:49 - Cook 1 processed order 4
+04:06:50 - Waiter 1 processed order 5
+04:06:50 - Deactivate waiter 2
+04:06:50 - Deactivate cook 2
+04:06:50 - Deactivate chief 2
+04:06:51 - Emmiter generated an order 6: Lemonade
+04:06:52 - Chief 1 processed order 4
+04:06:52 - Cook 1 processed order 5
+04:06:53 - Waiter 1 processed order 6
+04:06:55 - Chief 1 processed order 5
+04:06:55 - Cook 1 processed order 6
+04:06:57 - Chief 1 processed order 6
+04:07:13 - Deactivate waiter 1
+04:07:16 - Deactivate cook 1
+04:07:18 - Deactivate chief 1
+04:07:18 - End Program

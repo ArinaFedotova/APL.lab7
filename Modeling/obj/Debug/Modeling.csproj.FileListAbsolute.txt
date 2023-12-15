@@ -1,0 +1,12 @@
+/Users/arinafedotova/RiderProjects/Restaurant/Modeling/bin/Debug/Modeling.exe
+/Users/arinafedotova/RiderProjects/Restaurant/Modeling/bin/Debug/Modeling.pdb
+/Users/arinafedotova/RiderProjects/Restaurant/Modeling/bin/Debug/Restaurant.dll
+/Users/arinafedotova/RiderProjects/Restaurant/Modeling/bin/Debug/Restaurant.pdb
+/Users/arinafedotova/RiderProjects/Restaurant/Modeling/obj/Debug/Modeling.csproj.AssemblyReference.cache
+/Users/arinafedotova/RiderProjects/Restaurant/Modeling/obj/Debug/Modeling.csproj.CoreCompileInputs.cache
+/Users/arinafedotova/RiderProjects/Restaurant/Modeling/obj/Debug/Modeling.csproj.CopyComplete
+/Users/arinafedotova/RiderProjects/Restaurant/Modeling/obj/Debug/Modeling.exe
+/Users/arinafedotova/RiderProjects/Restaurant/Modeling/obj/Debug/Modeling.pdb
+/Users/arinafedotova/RiderProjects/Restaurant/Modeling/bin/Debug/Modeling.exe.config
+/Users/arinafedotova/RiderProjects/Restaurant/Modeling/bin/Debug/Logger.dll
+/Users/arinafedotova/RiderProjects/Restaurant/Modeling/bin/Debug/Logger.pdb
